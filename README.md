@@ -11,4 +11,4 @@ ISS Location
 This uses a MongoDB databse to hold usernames, and the amount tips they have contributed to the tip jar
 
 # WARNING:
-Part of this bot is alerting people to swear words. The class 'Swearing' has a list of inappropiate words and slurs that shouldn't be said anywhere; for the purpose of preventing swears.
+Part of this bot is alerting people to swear words. The file 'swears.txt' has a list of inappropiate words and slurs that shouldn't be said anywhere; for the purpose of preventing swears.
