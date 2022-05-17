@@ -1,5 +1,5 @@
 # Wumpurson
-I programmed this bot with a friend of mine. We essentially combined our two bot together into one, and adding some new commands and features to it.
+I programmed this bot with a friend of mine. We essentially combined our two bot together into one, and adding some new commands and features to it. This is an updated version of my previous Discord bot made in Java. 
 
 # APIs Used:
 Astronomy Picture of the Day,
