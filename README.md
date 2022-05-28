@@ -1,5 +1,5 @@
 # Wumpurson
-I programmed this bot with a friend of mine. We essentially combined our two bot together into one, and adding some new commands and features to it. This is an updated version of my previous Discord bot made in Java. 
+I programmed this bot with a friend of mine for our personal Discord server. It would read messages sent in the text channels and parse them for swear words. If there was a swear it would access a database to keep track of how many swears a user said. It also other functionality with different APIs listed below.
 
 # APIs Used:
 Astronomy Picture of the Day,
