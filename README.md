@@ -6,9 +6,15 @@ Astronomy Picture of the Day,
 Google Static Maps,
 PokeAPI,
 ISS Location
-
 # Database
 This uses a MongoDB databse to hold usernames, and the amount tips they have contributed to the tip jar
+
+# Photo Examples
+![alt text](https://github.com/dentifrag/Discord-Bot-Wumpurson/blob/master/Wumpurson%20Photo%20Examples/NASA.png)
+![alt text](https://github.com/dentifrag/Discord-Bot-Wumpurson/blob/master/Wumpurson%20Photo%20Examples/piggy-bank.png)
+![alt text](https://github.com/dentifrag/Discord-Bot-Wumpurson/blob/master/Wumpurson%20Photo%20Examples/pokemon.png)
+![alt text](https://github.com/dentifrag/Discord-Bot-Wumpurson/blob/master/Wumpurson%20Photo%20Examples/thank-you-tips.png)
+
 
 # WARNING:
 Part of this bot is alerting people to swear words. The file 'swears.txt' has a list of inappropiate words and slurs that shouldn't be said anywhere; for the purpose of preventing swears.
