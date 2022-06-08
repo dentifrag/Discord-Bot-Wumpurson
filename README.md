@@ -1,5 +1,5 @@
 # Wumpurson
-I programmed this bot with a friend of mine for a Discord server, and it would read messages sent in the text channels and parse them for swear words. If there was a swear it would access a database to keep track of how many swears a user said. It also has other functionality with the different APIs listed below.
+I programmed this bot with a friend of mine for a Discord server, and it would read messages sent in the text channels to parse them for swear words. If there was a swear it would access a database to keep track of how many swears a user said. It also has other functionality with the different APIs listed below.
 
 # APIs Used:
 NASA: Astronomy Picture of the Day,
