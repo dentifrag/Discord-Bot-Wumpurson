@@ -7,7 +7,7 @@ Google Static Maps,
 PokeAPI,
 ISS Location
 # Database
-This uses a MongoDB databse to hold usernames, and the amount tips they have contributed to the tip jar
+This uses MongoDB to hold usernames, and the amount tips they have contributed to the tip jar
 
 # Photo Examples
 ![alt text](https://github.com/dentifrag/Discord-Bot-Wumpurson/blob/master/Wumpurson%20Photo%20Examples/NASA.png)
